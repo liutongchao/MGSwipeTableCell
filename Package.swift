@@ -11,6 +11,5 @@ let package = Package(
     ],
     targets: [
         .target(name: "MGSwipeTableCell",path: "MGSwipeTableCell")
-    ],
-    swiftLanguageVersions: [.v5]
+    ]
 )
