@@ -10,6 +10,6 @@ let package = Package(
             targets: ["MGSwipeTableCell"]),
     ],
     targets: [
-        .target(name: "MGSwipeTableCell",path: "MGSwipeTableCell")
+        .target(name: "MGSwipeTableCell")
     ]
 )
